@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(255, 190, 117);
+}
+
+h1{
+    background-color: rgb(255, 190, 117);
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    letter-spacing: 25px;
+    word-spacing: 25px;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 300px;
+    word-spacing: 4px;
+}
+
+h2{
+    background-color: brown;
+    color: aliceblue;
+    /* border:2px black solid; */
+    border: 8px black double;
+    border-right: 8px rgb(127, 236, 3) groove;
+    border-bottom: 8px rgb(12, 150, 0) groove;
+    border-left: 8px rgb(0, 0, 133) groove;
+
+    /* padding */
+    /* padding:50px */
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+
+    /* margin */
+    /* margin: 70px */
+    margin-top: 40px;
+    margin-right: 50px;
+    margin-bottom: 40px;
+    margin-left: 50px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: rgb(100, 28, 4);
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+a:hover{
+    background-color: chartreuse;
+    text-decoration: underline;
+}
+
+h1:hover{
+    background-color: crimson;
+    color: rgb(255, 255, 255);
+}

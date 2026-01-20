@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(213, 240, 186);
+}
+
+#par1{
+    color: crimson;
+    background-color: yellow;
+    font-size: 26px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+#par2{
+    color: rgb(255, 0, 34);
+    font-size: 23px;
+    background-color: violet;
+    padding: 10px;
+    text-align: end;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+#par3{
+    color: springgreen;
+    background-color: blueviolet;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: dotted;
+    text-transform: capitalize;
+}
+
+.myparagraph{
+    color: sienna;
+    background-color: aqua;
+    padding: 12px;
+    font-size: 20px;
+}
+
+.kaka{
+    color: crimson;
+    background-color: yellowgreen;
+    padding: 21px;
+    text-align: center;
+    text-decoration: wavy;
+    font-size: 20px;
+}
